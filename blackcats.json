@@ -1,0 +1,20 @@
+{
+    "status": "00",
+	"blackcats": [
+		{
+			"id": 1,
+			"vn": "Cat breaks TV",
+			"ad": "http://www.youtube.com/watch?v=5hjpSZovWIU"
+		},
+		{
+			"id": 2,
+			"vn": "Cat breaks lamp",
+			"ad": "http://www.youtube.com/watch?v=TeLRLNvZ678"
+		},
+		{		
+			"id": 3,
+			"vn": "Cat does something",
+			"ad": "http://www.youtube.com/watch?v=z3U0udLH974"
+		}
+	]
+}

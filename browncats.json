@@ -1,0 +1,20 @@
+{
+	"status": "00",
+    "browncats": [
+		{
+			"id": 1,
+			"vn": "Demon Cat",
+			"ad": "http://www.youtube.com/watch?v=qj21q1mYmxw"
+		},
+		{
+			"id": 2,
+			"vn": "Cat chat!",
+			"ad": "http://www.youtube.com/watch?v=jbEXr9-5UjI"
+		},
+		{		
+			"id": 3,
+			"vn": "Cat in water",
+			"ad": "http://www.youtube.com/watch?v=ctJJrBw7e-c"
+		}
+	]
+}
